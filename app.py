@@ -40,7 +40,7 @@ ADVICE = [
 # ─────────────────────────────────────────────
 @st.cache_resource
 def load_dr_model():
-    model = load_model("dr_model.h5")
+   model = load_model("dr_model.keras")
     return model
 
 # ─────────────────────────────────────────────
