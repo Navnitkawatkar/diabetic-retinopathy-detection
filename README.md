@@ -1,6 +1,6 @@
 # 👁️ Diabetic Retinopathy Detection via Retinal Fundus Images
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://navnitkawatkar-diabetic-retinopathy-detection.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetic-retinopathy-detection-ukra2d3hmc8kqk7p9f6pwm.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15.0-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -8,7 +8,7 @@
 ---
 
 ## 🔗 Live Demo
-👉 **[Click here to open the Web App](https://navnitkawatkar-diabetic-retinopathy-detection.streamlit.app)**
+👉 **[Click here to open the Web App](https://diabetic-retinopathy-detection-ukra2d3hmc8kqk7p9f6pwm.streamlit.app/)**
 
 ---
 
