@@ -76,7 +76,7 @@ st.markdown("""
         👁️ Diabetic Retinopathy Detection
     </h1>
     <p style='text-align:center; color:gray; font-size:16px;'>
-        AI-powered retinal fundus image analysis using EfficientNetB3
+         retinal fundus image analysis using EfficientNetB3
     </p>
     <hr>
 """, unsafe_allow_html=True)
