@@ -40,8 +40,9 @@ ADVICE = [
 # ─────────────────────────────────────────────
 @st.cache_resource
 def load_dr_model():
-   model = load_model("dr_model.keras")
-   return model
+    import tensorflow as tf
+    model = tf.keras.models.load_model("dr_model_saved")
+    return model
 
 # ─────────────────────────────────────────────
 # PREPROCESSING
