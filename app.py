@@ -721,7 +721,5 @@ elif page == "ℹ️ About Project":
 st.markdown("""
     <div class='footer'>
         🔬 Diabetic Retinopathy Detection System &nbsp;·&nbsp;
-        Minor Project · B.Tech CSE &nbsp;·&nbsp;
-        Built with TensorFlow &amp; Streamlit
     </div>
 """, unsafe_allow_html=True)
